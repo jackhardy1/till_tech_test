@@ -1,0 +1,7 @@
+As a customer
+So that I can calculate the cost of my purchases
+I would like to log each item bought
+
+As a customer
+So that I know the total with tax
+I would like to be able to see the tax amount
